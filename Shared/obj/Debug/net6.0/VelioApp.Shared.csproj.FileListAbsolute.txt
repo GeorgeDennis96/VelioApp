@@ -1,0 +1,12 @@
+C:\Users\George\Documents\C#\VelioApp\Shared\bin\Debug\net6.0\VelioApp.Shared.deps.json
+C:\Users\George\Documents\C#\VelioApp\Shared\bin\Debug\net6.0\VelioApp.Shared.dll
+C:\Users\George\Documents\C#\VelioApp\Shared\bin\Debug\net6.0\VelioApp.Shared.pdb
+C:\Users\George\Documents\C#\VelioApp\Shared\obj\Debug\net6.0\VelioApp.Shared.csproj.AssemblyReference.cache
+C:\Users\George\Documents\C#\VelioApp\Shared\obj\Debug\net6.0\VelioApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Documents\C#\VelioApp\Shared\obj\Debug\net6.0\VelioApp.Shared.AssemblyInfoInputs.cache
+C:\Users\George\Documents\C#\VelioApp\Shared\obj\Debug\net6.0\VelioApp.Shared.AssemblyInfo.cs
+C:\Users\George\Documents\C#\VelioApp\Shared\obj\Debug\net6.0\VelioApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\C#\VelioApp\Shared\obj\Debug\net6.0\VelioApp.Shared.dll
+C:\Users\George\Documents\C#\VelioApp\Shared\obj\Debug\net6.0\refint\VelioApp.Shared.dll
+C:\Users\George\Documents\C#\VelioApp\Shared\obj\Debug\net6.0\VelioApp.Shared.pdb
+C:\Users\George\Documents\C#\VelioApp\Shared\obj\Debug\net6.0\ref\VelioApp.Shared.dll
