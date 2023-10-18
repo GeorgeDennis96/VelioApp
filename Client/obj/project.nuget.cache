@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xPJHmPTroYyNsdOiNE0bVHoKHK+n8FtB7tPlP5+cHKrIM/H+UxFw/K2KGHElApNRP6gCGsRVOyzWL90vdpTOxA==",
+  "dgSpecHash": "JPESi6tRg6p4i3B28zqdkyDjN3Y208tNTkhXuY/MP8vMIYFrWRM4AmsSXUGxWAiHRbsxsoZlaRM6hvE30r728g==",
   "success": true,
   "projectFilePath": "C:\\Users\\George\\Documents\\C#\\VelioApp\\Client\\VelioApp.Client.csproj",
   "expectedPackageFiles": [
@@ -28,12 +28,15 @@
     "C:\\Users\\George\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\George\\.nuget\\packages\\microsoft.jsinterop\\6.0.15\\microsoft.jsinterop.6.0.15.nupkg.sha512",
     "C:\\Users\\George\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.15\\microsoft.jsinterop.webassembly.6.0.15.nupkg.sha512",
+    "C:\\Users\\George\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\George\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\George\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.0-rc.2.23479.6\\microsoft.net.sdk.webassembly.pack.8.0.0-rc.2.23479.6.nupkg.sha512",
     "C:\\Users\\George\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\George\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\George\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\George\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\George\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\George\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.16\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.16.nupkg.sha512"
+    "C:\\Users\\George\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.23\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.23.nupkg.sha512"
   ],
   "logs": []
 }

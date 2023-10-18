@@ -1,0 +1,17 @@
+﻿@page "/products"
+@page "/{categoryUrl}"
+@inject IProductService ProductService;
+
+<PageTitle>Velio</PageTitle>
+
+<ProductList />
+
+@code {
+    [Parameter]
+    public string? categoryUrl { get; set; } = null;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        await ProductService.GetProducts(categoryUrl);
+    }
+}
